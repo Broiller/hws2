@@ -1,31 +1,44 @@
-.message {
+/*.message {*/
+/*    display: flex;*/
+/*    align-items: flex-end;*/
 
-}
+/*    margin: 10px;*/
+/*}*/
 
-.imageAndText {
+/*.imageAndText {*/
+/*    height: 50px;*/
+/*    width: 50px;*/
 
-}
+/*    border-radius: 50%;*/
 
-.imageAndText img {
+/*}*/
 
-}
+/*.imageAndText img {*/
 
-.text {
+/*}*/
 
-}
+/*.text {*/
 
-.text:after {
 
-}
+/*}*/
 
-.name {
+/*.text:after {*/
 
-}
+/*}*/
 
-.messageText {
+/*.name {*/
+/*    font-size: 20px;*/
+/*    font-weight: bold;*/
+/*    color: #bbffbb;*/
 
-}
+/*}*/
 
-.time {
+/*.messageText {*/
+/*    min-width: 150px;*/
+/*    max-width: 300px;*/
+/*    background: radial-gradient(circle at 0 0, rgba(0, 0, 0, 0) 15px, rgba(255, 255, 255, 0, 3) 0);*/
+/*}*/
 
-}
+/*.time {*/
+
+/*}*/

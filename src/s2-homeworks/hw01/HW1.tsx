@@ -35,7 +35,7 @@ export const message0: MessageType = {
     id: 0,
     user: {
         avatar: avatar, // можно менять
-        name: 'Bred Pitt',  // можно менятьs
+        name: 'Bred Pitt',  // можно менятьs`
     },
     message: {
         text: 'Hello, man!', // можно менять
