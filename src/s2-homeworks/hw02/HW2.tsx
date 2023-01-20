@@ -35,6 +35,7 @@ const defaultAffairs: Array<AffairType> = [ //
 ]
 
 // pure helper functions
+// sdsadasdsa
 
 export const filterAffairs = (affairs: Array<AffairType>, filter: FilterType): Array<AffairType> => { // need to fix any
     if(filter === "all") return affairs
