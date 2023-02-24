@@ -2,10 +2,13 @@
 }
 
 .radio::before {
+    background-color: #99ff99;
 }
 
 
 .radio:checked::before {
+    background-color: #dd3355;
+    color: #dd3355;
 }
 
 .label {
